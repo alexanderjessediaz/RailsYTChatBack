@@ -1,4 +1,4 @@
-
+Post.destroy_all
 
 Post.create(title: "First Post", content: "This is the first post seed")
 Post.create(title: "Second Post", content: "This is the second post seed")
